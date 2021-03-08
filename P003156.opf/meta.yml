@@ -15,6 +15,7 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 133
+      base_file: v001.txt
     c7cce4a53b744bb0bcb088df2004fe5c:
       image_group_id: I1KG26255
       title: ''
@@ -30,11 +31,13 @@ source_metadata:
       title: ''
       volume_number: 5
       total_pages: 152
+      base_file: v002.txt
     ca6f4647785e477b8861e233ef10c270:
       image_group_id: I1KG26258
       title: ''
       volume_number: 6
       total_pages: 128
+      base_file: v003.txt
     af58cf37d0414258a74a12fd58736d3d:
       image_group_id: I1KG26259
       title: ''
